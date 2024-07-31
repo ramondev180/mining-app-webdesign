@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1c7ea1c.css",
+    "main.js": "/static/js/main.1cf98005.js",
+    "static/media/bitcoin.svg": "/static/media/bitcoin.f4fe348cc22339a15efc1fb4769d9681.svg",
+    "static/media/auth-bg.jpg": "/static/media/auth-bg.37838c8562b8ab1faba7.jpg",
+    "static/media/section-img.svg": "/static/media/section-img.c9daeaf32031fea15db035527ef0227f.svg",
+    "static/media/Trading.svg": "/static/media/Trading.7a8ba86eac0871ce11c43b42568c2a00.svg",
+    "static/media/Support.svg": "/static/media/Support.95ba037addedc1657c9db84e45c279e3.svg",
+    "static/media/Multiple.svg": "/static/media/Multiple.fb19921bd644eab2be919061fcb197c4.svg",
+    "static/media/DataSecure.svg": "/static/media/DataSecure.5d96fd801108b7fec35f86c54dcf6eca.svg",
+    "static/media/mining.svg": "/static/media/mining.706cf59ee0a35d7bdb68c9daf5ae084d.svg",
+    "static/media/lightMining.svg": "/static/media/lightMining.b9744e6fa08d11b3f1de782fe2d6a717.svg",
+    "static/media/computer.svg": "/static/media/computer.8826df4ab806f442b97cc5ec5b616f89.svg",
+    "static/media/plane.svg": "/static/media/plane.b6268cbe5e29bd51d4fdaff49bf9654c.svg",
+    "static/media/lightAnalysis.svg": "/static/media/lightAnalysis.e9116e104a82f9658d3c8acf017073f2.svg",
+    "static/media/Wallet.svg": "/static/media/Wallet.a8c400c615ddd7181e5d272387e7fe8a.svg",
+    "static/media/Analysis.svg": "/static/media/Analysis.a7bd91605a41503da1432eed6f2105d5.svg",
+    "static/media/Locked.svg": "/static/media/Locked.50a767092b8d13e31b8b26a954e895b5.svg",
+    "static/media/Lucks.svg": "/static/media/Lucks.4e663c0683a7f4109f57d65784af8836.svg",
+    "static/media/checkBox.svg": "/static/media/checkBox.4ac25b3ba6a5e16885c58ad73844d7db.svg",
+    "static/media/Socket.svg": "/static/media/Socket.78ad53c3c125bbbec97ff3f4ceca626a.svg",
+    "static/media/nav-logo.svg": "/static/media/nav-logo.07fc654823a165a9d740abbfa5a3a3b4.svg",
+    "static/media/dark-logo.svg": "/static/media/dark-logo.c8e445a2463d2f1de09a74aa0c93028b.svg",
+    "static/media/addUser.svg": "/static/media/addUser.c32b8a8d2b2e3573123f36f7d28080c9.svg",
+    "static/media/GoogleIcon.svg": "/static/media/GoogleIcon.c3c756b00d59e918ba8da412e4109bf5.svg",
+    "static/media/Quote.svg": "/static/media/Quote.d47cbf8e51429d42f8c3a1de82d39432.svg",
+    "index.html": "/index.html",
+    "static/media/blocks.svg": "/static/media/blocks.290e1ef486988e0feb0fa4f39d8137db.svg",
+    "static/media/EndBox.svg": "/static/media/EndBox.263394077931ed8d278ee78bdcb5aa62.svg",
+    "main.d1c7ea1c.css.map": "/static/css/main.d1c7ea1c.css.map",
+    "main.1cf98005.js.map": "/static/js/main.1cf98005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c7ea1c.css",
+    "static/js/main.1cf98005.js"
+  ]
+}

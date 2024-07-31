@@ -1,0 +1,138 @@
+.auth-body {
+    display: flex;
+    position: relative;
+    .content{
+        width: 50%;
+        margin-left: 50%;
+    }
+    .logo {
+        display: flex;
+        color: white;
+        margin: 64px;
+        text-decoration: none;
+        align-items: end;
+
+        img {
+            margin-right: 10px;
+            width: 50px;
+        }
+    }
+
+    .auth_background {
+        background: linear-gradient(0deg, rgba(14, 23, 68, 0.7), rgba(14, 23, 68, 0.7)), url("../assets/images/auth-bg.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        position: fixed;
+        width: 50%;
+
+        .quote {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 80%;
+            font-size: 20px;
+            transform: translate(-50%, -50%);
+            color: white;
+
+            p:not(.q) {
+                line-height: 30px;
+            }
+
+            .q {
+                color: #00DAF7;
+                font-family: Gayathri;
+            }
+        }
+
+        .endbox {
+            position: absolute;
+            right: 0;
+            bottom: -90px;
+            // bottom:0px;
+        }
+    }
+
+    .stages {
+        display: flex;
+        justify-content: space-between;
+        font-size: 14px;
+
+        .back {
+            cursor: pointer;
+            color: #8692A6;
+
+            span {
+                padding-left: 10px;
+            }
+        }
+    }
+
+    .form-div{
+        margin: auto;
+        width: 426px;
+        h1{
+            font-size: 30px;
+        }
+        .form-group{
+            margin-top: 40px;
+            label{
+                color: #696F79;
+            }
+            input,select{
+                padding: 10px;
+            }
+            input:focus{
+                border-color: #0E1744;
+                box-shadow: 0 0 0 .25rem #0e17445e;
+            }
+        }
+    }
+    .sign-in-link{
+        text-decoration: none;
+        color: #0E1744;
+        margin-left: 5px;
+    }
+    .btn-group{
+        position: relative;
+
+        button{
+            position: absolute;
+            right:0;
+            height: 100%;
+        }
+    }
+    .priceSwiper{
+        width: 100%;
+    }
+    .swiper-slide{
+        .price{
+            box-shadow: 1px 1px 3px 3px rgba(215, 215, 215, 0.738);
+        }
+    }
+    // .swiper-button-next{
+    //     right:-20px;
+    // }
+    // .swiper-button-prev{
+    //     // display: none !important;
+    // }
+}
+
+@media (max-width: 898px) {
+    .auth_background{
+        display: none;
+    }
+    .content{
+        margin: auto !important;
+        margin-top: 50px;
+    }
+}
+@media (max-width: 820px) {
+
+    .form-div,.content{
+        width: 100% !important;
+    }
+    .content{
+        padding:15px;
+    }
+}
